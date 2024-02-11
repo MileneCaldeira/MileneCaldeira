@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @MileneCaldeira
+- 👀 I’m interested in learn and work programming
+- 🌱 I’m currently learning the Java language
+- 💞️ I’m looking to collaborate on as a programmer
+- 📫 How to contact me by email: mihdsc2004@gmail.com
+- 😄 Pronouns: she/her
