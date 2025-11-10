@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MileneCaldeira
-- 👀 I’m interested in learn and work programming
-- 🌱 I’m currently learning the Java language
-- 💞️ I’m looking to collaborate on as a programmer
-- 📫 How to contact me by email: mihdsc2004@gmail.com
-- 😄 Pronouns: she/her
+👋 Hi, I'm Milene Caldeira  
+👀 Passionate about software development and problem solving  
+🌱 Currently learning Java and building projects to strengthen my fundamentals  
+💼 Interested in collaborating on backend, data and general programming projects  
+📫 Contact: mcaldeira.tech@gmail.com  
+😄 Pronouns: she/her
