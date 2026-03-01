@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Milene%20Caldeira&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineering%20%7C%20Backend%20%7C%20Problem%20Solving&descAlignY=60&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Milene%20Caldeira&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Analytics%20%7C%20Data%20Engineering%20%7C%20Data%20Science&descAlignY=60&descSize=18&animation=fadeIn" />
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=43A5F5&center=true&vCenter=true&width=600&lines=Passionate+about+data+engineering+%F0%9F%93%8A;Building+ETL+pipelines+%F0%9F%94%A7;Exploring+SQL+Server+%2B+Power+BI+%2B+Tableau;Becoming+a+full-stack+data+professional+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=43A5F5&center=true&vCenter=true&width=600&lines=Data+Analytics+%F0%9F%93%8A;Explorando+Data+Engineering+%F0%9F%94%A7;SQL+Server+%2B+Power+BI+%2B+Tableau+%2B+Python;Rumo+a+Data+Scientist+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,11 +12,13 @@
 
 ### 👩‍💻 Sobre mim
 
-Olá! Sou a **Milene**, desenvolvedora apaixonada por **engenharia de dados**, **dados** e resolução de problemas complexos. Estou em constante aprendizado, consolidando minha jornada para me tornar uma profissional **full-stack em dados**.
+Olá! Sou a **Milene**, apaixonada por **dados** em todas as suas formas — análise, visualização e engenharia. Atualmente atuando em **Data Analytics** e com os olhos no horizonte de **Data Engineering** e **Data Science**.
 
-- 🌱 Atualmente aprofundando conhecimentos em **Java**, **SQL Server** e ferramentas de **cloud data**
-- 📊 Explorando **modelagem de dados**, **pipelines ETL** e **analytics**
-- 🤝 Aberta a colaborações em projetos de **backend**, **dados** e **programação geral**
+- 📊 Trabalhando com **análise de dados**, **dashboards** e **visualização**
+- 🌱 Aprofundando conhecimentos em **SQL Server**, **Python** e ferramentas de dados
+- 🔭 Explorando **modelagem de dados**, **pipelines ETL** e conceitos de **Machine Learning**
+- 🎯 Objetivo: me tornar **Data Engineer** ou **Data Scientist**
+- 🤝 Aberta a colaborações em projetos de **dados e analytics**
 - 📍 Brasil
 - 📬 Contato: **mcaldeira.tech@gmail.com**
 - 💬 Pronomes: **she/her**
@@ -28,7 +30,6 @@ Olá! Sou a **Milene**, desenvolvedora apaixonada por **engenharia de dados**, *
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
@@ -60,10 +61,11 @@ Olá! Sou a **Milene**, desenvolvedora apaixonada por **engenharia de dados**, *
 
 ```python
 milene = {
-    "aprendendo":   ["Java avançado", "SQL Server", "Cloud Data Tools"],
-    "explorando":   ["ETL Pipelines", "Data Modeling", "Analytics"],
+    "atuando_em":   "Data Analytics 📊",
+    "aprendendo":   ["SQL Server", "Python para dados", "Git/GitHub"],
+    "explorando":   ["ETL Pipelines", "Data Modeling", "Data Engineering"],
     "visualização": ["Power BI", "Tableau"],
-    "objetivo":     "Full-Stack Data Professional 🚀"
+    "objetivo":     "Data Engineer ou Data Scientist 🚀"
 }
 ```
 
