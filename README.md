@@ -12,7 +12,7 @@
 
 ### 👩‍💻 Sobre mim
 
-Olá! Sou a **Milene**, desenvolvedora apaixonada por **engenharia de dados**, **backend** e resolução de problemas complexos. Estou em constante aprendizado, consolidando minha jornada para me tornar uma profissional **full-stack em dados**.
+Olá! Sou a **Milene**, desenvolvedora apaixonada por **engenharia de dados**, **dados** e resolução de problemas complexos. Estou em constante aprendizado, consolidando minha jornada para me tornar uma profissional **full-stack em dados**.
 
 - 🌱 Atualmente aprofundando conhecimentos em **Java**, **SQL Server** e ferramentas de **cloud data**
 - 📊 Explorando **modelagem de dados**, **pipelines ETL** e **analytics**
