@@ -104,14 +104,35 @@ Atualmente em transição para **Data Engineering** e **Data Science**, construi
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MileneCaldeira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=43A5F5&icon_color=43A5F5&text_color=c9d1d9"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MileneCaldeira&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=43A5F5&text_color=c9d1d9"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MileneCaldeira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=43A5F5&icon_color=43A5F5&text_color=c9d1d9&cache_seconds=1800"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MileneCaldeira&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=43A5F5&text_color=c9d1d9&cache_seconds=1800&hide=java"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MileneCaldeira&theme=tokyonight&hide_border=true&background=0D1117&ring=43A5F5&fire=FF6B6B&currStreakLabel=43A5F5)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MileneCaldeira&theme=tokyonight&hide_border=true&background=0D1117&ring=43A5F5&fire=FF6B6B&currStreakLabel=43A5F5&cache_seconds=1800)](https://git.io/streak-stats)
+
+</div>
+
+<!-- Profile Summary Cards — mais detalhado e visual -->
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MileneCaldeira&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MileneCaldeira&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MileneCaldeira&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MileneCaldeira&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MileneCaldeira&theme=tokyonight&utcOffset=-3)
 
 </div>
 
